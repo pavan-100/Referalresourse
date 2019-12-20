@@ -1,0 +1,56 @@
+.ageinf h1{
+margin-top:  50px; ;
+text-align: center;
+color: #0e2d53;
+}
+.msd{
+    margin-top: 50px;
+    width: 200px;
+    height: 300px;
+    color: #10767b;
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 4px 21px -5px rgba(97, 97, 97, 0.23);
+}
+.msd img{
+    width: 75px;
+    height: 80px;
+    border-radius: 20px;
+}
+.kohli{
+    margin-top: 50px;
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+    background-color:  #e7f1f1;
+    color: #10767b;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 21px -5px rgba(97, 97, 97, 0.23);
+}
+.kohli img{
+    width: 75px;
+    height: 80px;
+    border-radius: 20px;
+}
+.mithaliraj{
+    margin-top: 50px;
+    width: 200px;
+    height: 300px;
+    color: #10767b;
+    text-align: center;
+    padding: 20px;
+    background-color:#e7f1f1 ;
+    border-radius: 5px;
+    box-shadow: 0 4px 21px -5px rgba(97, 97, 97, 0.23);
+}
+.mithaliraj img{
+    width: 75px;
+    height: 80px;
+    border-radius: 20px;
+}
+.ageinf h4,p{
+ margin-top: 30px;
+}

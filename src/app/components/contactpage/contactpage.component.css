@@ -1,0 +1,41 @@
+.contact h1{
+    color: #0e2d53;
+    margin-top: 50px;
+    text-align: center;
+}
+.contact h5{
+    color: #0e2d53;
+    margin-top: 20px;
+    text-align: center;
+}
+.contact img{
+    height: 30px;
+    position: relative;
+    top: 8px;
+    margin-top: 20px;
+}
+.contact input{
+    width: 479.7px;
+    height: 53px;
+    margin-top: 10px;
+    color: #0e2d53;
+    border-radius: 8px;
+    border: solid 1px #d5d5d5
+}
+.contact label{
+    font-weight: bold;
+    color: #0e2d53;
+    margin-top: 30px;
+  }
+  .contact button{
+    width: 228px;
+    height: 52px;
+    color: cornsilk;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 4px 20px -2px rgba(40, 53, 131, 0.34);
+    background-color: #10767b;
+  }
+  .contact{
+      color: #0e2d53;
+  }

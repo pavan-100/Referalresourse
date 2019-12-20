@@ -1,0 +1,22 @@
+.beref h1{
+    color: #10767b; ;
+    text-align: center;
+}
+.showcard{
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    color: #0e2d53;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 21px -5px rgba(97, 97, 97, 0.23);
+}
+.beref h3{
+    color: #0e2d53;
+    text-align: center;
+    margin-top: 50px;
+}
+.showcard p{
+    margin-top: 20px;
+}

@@ -1,0 +1,19 @@
+.foot{
+    color: #0e2d53;
+    margin-top: 50px;
+}
+.foot h3{
+margin-bottom: 30px;
+}
+.foot i{
+    height: 10px;
+    width: 40px;
+}
+.foote{
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f6f8f9;    
+    width: 1284px;
+    height: 35px;
+    padding: 30px;
+}

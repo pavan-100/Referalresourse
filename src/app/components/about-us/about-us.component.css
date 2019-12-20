@@ -1,0 +1,16 @@
+.mainpage{
+    background-color: #f2f2f2;
+}
+.mainpage h1{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: #0e2d53;  
+}
+.mainpage p{
+    font-weight: bold;
+    text-align: center;
+    color: #0e2d53; 
+    max-width: 770px;
+    margin-top: 20px; 
+}
