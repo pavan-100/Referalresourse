@@ -14,3 +14,19 @@
     max-width: 770px;
     margin-top: 20px; 
 }
+.imgright{
+    text-align: right;
+}
+.imgleft{
+    text-align: left;
+}
+@media screen and (max-width:1062px){
+.imgright{
+    width:0px;
+    height:0px;
+}
+.imgleft{
+    width:0px;
+    height:0px;
+}
+}

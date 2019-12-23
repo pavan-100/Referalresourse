@@ -1,4 +1,4 @@
-.ageinf h1{
+/* .ageinf h1{
 margin-top:  50px; ;
 text-align: center;
 color: #0e2d53;
@@ -54,3 +54,46 @@ color: #0e2d53;
 .ageinf h4,p{
  margin-top: 30px;
 }
+    */
+    .cards {
+        position: relative;
+        top: 60px;
+        left: 280px;
+        align-items: center;
+      }
+      .card {
+        height: 350px;
+        width: 270px;
+        background-color: white;
+        border-radius: 9px;
+        box-shadow: -1rem 0 3rem #000;
+        margin-left: -50px;
+        transition: 0.4s ease-out;
+        position: relative;
+        left: 0px;
+        align-items: center;
+      }
+      .card:hover {
+        transform: translateY(-20px);
+        transition: 0.4s ease-out;
+      }
+      .card:hover ~ .card {
+        left: 40px;
+        transition: 0.4s ease-out;
+      }
+      img{
+        margin-top: 20px;
+        width: 100px;
+        height: 100px;
+        border-radius:20px;
+        margin-left: 85px;
+      }
+      p ,h3{
+          color: #0e2d53;
+          margin-top: 20px;
+          text-align: center;
+      }
+      h2{
+          margin-top: 50px;          
+          color: #0e2d53;
+      }

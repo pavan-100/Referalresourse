@@ -1,6 +1,6 @@
 .contact h1{
     color: #0e2d53;
-    margin-top: 50px;
+    margin-top: 85px;
     text-align: center;
 }
 .contact h5{
@@ -15,12 +15,13 @@
     margin-top: 20px;
 }
 .contact input{
-    width: 479.7px;
+    /* width: 479.7px; */
     height: 53px;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     color: #0e2d53;
     border-radius: 8px;
-    border: solid 1px #d5d5d5
+    border: solid 1px #d5d5d5;
+    margin: 10px 10px 0px;
 }
 .contact label{
     font-weight: bold;
